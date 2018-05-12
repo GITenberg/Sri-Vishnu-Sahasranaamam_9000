@@ -1,5 +1,5 @@
 _repo: Sri-Vishnu-Sahasranaamam_9000
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The 1000 Names Of Lord Vishnu
 contributor:
   translators:
@@ -9,7 +9,12 @@ contributor:
   - agent_name: Krishnan, Karthik
     gutenberg_agent_id: '4941'
     url: http://www.gutenberg.org/2009/agents/4941
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9000#Sri-Vishnu-Sahasranaamam
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
